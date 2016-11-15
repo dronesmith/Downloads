@@ -5,8 +5,7 @@ The purpose of this repository is to provide a hub for all of our downloads.
 If you're wondering where to start, consult our [documentation](http://readme.dronesmith.io/).
 
 ## API Documentation
-Our preliminary Dronesmith API documentation is available in PDF format in the `api-doc` directory. We will be moving this to a proper documentation outlet in the near future.
-
+Our Dronesmith API documentation is available on [readme.dronesmith.io](http://readme.dronesmith.io/reference).
 
 ## Dronesmith Link
 Dronesmith Link lives on a drone's onboard Linux processor and establishes connection with Dronesmith Cloud if available, along with creating a general status page. See the `dslink` folder for downloads. Generally, unless otherwise specified, you will want to download the latest version of your system architecture.
