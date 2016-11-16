@@ -8,7 +8,7 @@ If you're wondering where to start, consult our [documentation](http://readme.dr
 Our Dronesmith API documentation is available on [readme.dronesmith.io](http://readme.dronesmith.io/reference).
 
 ## Dronesmith Link
-Dronesmith Link lives on a drone's onboard Linux processor and establishes connection with Dronesmith Cloud if available, along with creating a general status page. See the `dslink` folder for downloads. Generally, unless otherwise specified, you will want to download the latest version of your system architecture.
+Dronesmith Link lives on a drone's onboard Linux processor and establishes connection with Dronesmith Cloud if available, along with creating a general status page. It also provides local access to the API, so you don't always have to be connected to the cloud. See the `dslink` folder for downloads. Generally, unless otherwise specified, you will want to download the latest version of your system architecture.
 
 See our [install guide](http://readme.dronesmith.io/docs/install-dslink) for more information about how to install and use.
 
